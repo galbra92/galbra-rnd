@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T09:54:54.096Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="0ooxvdlfbqZVXuknqtvT" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T10:15:05.458Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="6afVRllH_YJNBaH6TUJ6" version="14.6.1" type="github">
   <diagram id="aAm0XzFPQzAnFzhjA1I4" name="Page-1">
-    <mxGraphModel dx="835" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="2168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="95lhOQjsp4lTH7REbEWE-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="980" width="700" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1950" width="700" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1660" width="700" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="700" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="700" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="95lhOQjsp4lTH7REbEWE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="500" width="700" height="330" as="geometry" />
+          <mxGeometry x="120" y="500" width="700" height="410" as="geometry" />
         </mxCell>
         <mxCell id="95lhOQjsp4lTH7REbEWE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-1" target="95lhOQjsp4lTH7REbEWE-3">
           <mxGeometry relative="1" as="geometry" />
@@ -13,7 +28,7 @@
         <mxCell id="95lhOQjsp4lTH7REbEWE-1" value="Takeoff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="365" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="95lhOQjsp4lTH7REbEWE-2" value="&lt;h1&gt;Tekingoff&lt;/h1&gt;&lt;p&gt;* Outdoors&lt;/p&gt;&lt;p&gt;* 50-100 meters away from target building&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="95lhOQjsp4lTH7REbEWE-2" value="&lt;h1&gt;Takingoff&lt;/h1&gt;&lt;p&gt;* Outdoors&lt;/p&gt;&lt;p&gt;* 50-100 meters away from target building&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="120" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="95lhOQjsp4lTH7REbEWE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-3" target="95lhOQjsp4lTH7REbEWE-7">
@@ -22,20 +37,97 @@
         <mxCell id="95lhOQjsp4lTH7REbEWE-3" value="Last 10 Meters" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="365" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24.44439697265625" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-11" value="&lt;h1&gt;HoldingPosition&lt;/h1&gt;&lt;p&gt;&lt;span&gt;*SiteState: OutDoor&lt;/span&gt;&lt;br&gt;&lt;span&gt;*PositionProvider: GPS&lt;/span&gt;&lt;br&gt;&lt;span&gt;*FFK state: HoldingPosition&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="530" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-12" value="&lt;h1&gt;Manual&lt;/h1&gt;&lt;p&gt;&lt;span&gt;*SiteState: OutDoor&lt;/span&gt;&lt;br&gt;&lt;span&gt;*PositionProvider: GPS&lt;br&gt;&lt;/span&gt;&lt;span&gt;* 50-100 meters away from target building&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="340" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-17" value="&lt;h1&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Opening sugestions&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;Send back to user suggested entrances.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-7" target="95lhOQjsp4lTH7REbEWE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="95lhOQjsp4lTH7REbEWE-7" value="Suggest to user BEST_ENTRIES based on SightX openinig detections" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="365" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="95lhOQjsp4lTH7REbEWE-11" value="&lt;h1&gt;HoldingPosition&lt;/h1&gt;&lt;p&gt;&lt;span&gt;SiteState: OutDoor&lt;/span&gt;&lt;br&gt;&lt;span&gt;PositionProvider: GPS&lt;/span&gt;&lt;br&gt;&lt;span&gt;FFK state: HoldingPosition&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="650" width="190" height="120" as="geometry" />
+        <mxCell id="95lhOQjsp4lTH7REbEWE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-18" target="95lhOQjsp4lTH7REbEWE-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="95lhOQjsp4lTH7REbEWE-12" value="&lt;h1&gt;Manual&lt;/h1&gt;&lt;p&gt;&lt;span&gt;SiteState: OutDoor&lt;/span&gt;&lt;br&gt;&lt;span&gt;PositionProvider: GPS&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="340" width="190" height="120" as="geometry" />
+        <mxCell id="95lhOQjsp4lTH7REbEWE-18" value="PointAndGo" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1025" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="95lhOQjsp4lTH7REbEWE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="100" width="700" height="160" as="geometry" />
+        <mxCell id="95lhOQjsp4lTH7REbEWE-20" value="&lt;h1&gt;PointAndGo&lt;/h1&gt;&lt;p&gt;*SiteState: OutDoor&lt;br&gt;*&lt;font color=&quot;#ff0000&quot;&gt;PositionProvider: GPS? odom?&lt;/font&gt;&lt;br&gt;*FFK state: PointAndGo&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="995" width="190" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="95lhOQjsp4lTH7REbEWE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="700" height="160" as="geometry" />
+        <mxCell id="95lhOQjsp4lTH7REbEWE-22" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="95lhOQjsp4lTH7REbEWE-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="880" as="sourcePoint" />
+            <mxPoint x="430" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-23" value="&lt;h1&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;User clicked on desired opening&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;Desired opening is then being injected to PointAndGo as a point to track?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="770" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-27" target="95lhOQjsp4lTH7REbEWE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-25" target="95lhOQjsp4lTH7REbEWE-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-25" value="Fly towards desired tracked opening" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="364.75" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-27" value="Insert setpoint adjustments from LaserScan&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-29" target="95lhOQjsp4lTH7REbEWE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-29" value="Altitude close loop,&lt;br&gt;aligning laser_scan on target" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="312" y="1120" width="225.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-32" target="95lhOQjsp4lTH7REbEWE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-32" value="SightX openining suggestions." style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-34" target="95lhOQjsp4lTH7REbEWE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-34" value="Perform entrance manouvering?" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="364.75" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-37" target="95lhOQjsp4lTH7REbEWE-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-37" value="ChangeToIndoor" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-39" value="Does changing to indoor should be performed outside the building?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1600" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-40" value="Exploration" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2025" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-41" value="&lt;h1&gt;Exploration&lt;/h1&gt;&lt;p&gt;&lt;span&gt;*SiteState: Indoor&lt;/span&gt;&lt;br&gt;&lt;span&gt;*PositionProvider: Slam&lt;/span&gt;&lt;br&gt;&lt;span&gt;*FFK state: PointAndGo&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2002.5" width="190" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" edge="1" parent="1" source="95lhOQjsp4lTH7REbEWE-46" target="95lhOQjsp4lTH7REbEWE-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="95lhOQjsp4lTH7REbEWE-46" value="Perform wall align" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="364.75" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
